@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>pedroj</groupId>
     <artifactId>Ejemplos</artifactId>
-    <version>Plantilla</version>
+    <version>AgenteDemo</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
